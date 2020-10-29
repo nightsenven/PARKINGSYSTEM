@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>headpic/hide.jpg</file>
+        <file>headpic/简约.jpg</file>
+        <file>headpic/键盘.jpg</file>
+        <file>headpic/管理员.jpg</file>
+    </qresource>
+</RCC>
